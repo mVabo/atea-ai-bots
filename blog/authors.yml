@@ -1,12 +1,11 @@
-yangshun:
-  name: Yangshun Tay
-  title: Front End Engineer @ Facebook
-  url: https://github.com/yangshun
-  image_url: https://github.com/yangshun.png
+mathiasvabo:
+  name: Mathias Vabø
+  title: Tech Lead @ Atea
+  url: https://github.com/mVabo
+  image_url: https://avatars.githubusercontent.com/u/35922344?v=4
   page: true
   socials:
-    x: yangshunz
-    github: yangshun
+    github: mVabo
 
 slorber:
   name: Sébastien Lorber
