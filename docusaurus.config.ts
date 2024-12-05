@@ -26,7 +26,7 @@ const config: Config = {
 		locales: ['en'],
 	},
 
-	trailingSlash: true,
+	trailingSlash: false,
 
 	presets: [
 		[
